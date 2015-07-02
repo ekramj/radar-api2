@@ -1,9 +1,9 @@
 # DOCKER-VERSION 1.1.2
 # FROM shipimg/appbase:latest
-FROM ekramj/radar-api2:latest
+FROM ekramj/radar-api2:18
 
 # Maintainer
-MAINTAINER Jawaid Ekram
+MAINTAINER Jawaid Ekram <jekram@yahoo.com>
 
 # Label
 LABEL description="Demo App"
