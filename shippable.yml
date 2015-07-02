@@ -29,6 +29,6 @@ notifications:
             - jekram@yahoo.com
             - jekram@hotmail.com
             - jawaid@shippable.com
-        on_success: ayways
+        on_success: always
         on_failure: always
         
