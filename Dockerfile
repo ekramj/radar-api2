@@ -1,6 +1,6 @@
 # DOCKER-VERSION 1.1.2
 # FROM shipimg/appbase:latest
-FROM ekramj/radar-api2:18
+FROM ekramj/radar-api2:16
 
 # Maintainer
 MAINTAINER Jawaid Ekram <jekram@yahoo.com>
